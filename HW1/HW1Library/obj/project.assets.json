@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/home/valentin_georgiev/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/HW1Library.csproj",
+      "projectName": "HW1Library",
+      "projectPath": "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/HW1Library.csproj",
+      "packagesPath": "/home/valentin_georgiev/.nuget/packages/",
+      "outputPath": "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/valentin_georgiev/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
