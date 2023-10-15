@@ -10,3 +10,15 @@
 /home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/obj/Debug/net6.0/HW1Library.dll
 /home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/obj/Debug/net6.0/ref/HW1Library.dll
 /home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/obj/Debug/net6.0/HW1Library.pdb
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/bin/Debug/net6.0/HW1Library.deps.json
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/bin/Debug/net6.0/HW1Library.dll
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/bin/Debug/net6.0/ref/HW1Library.dll
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/bin/Debug/net6.0/HW1Library.pdb
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/obj/Debug/net6.0/HW1Library.csproj.AssemblyReference.cache
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/obj/Debug/net6.0/HW1Library.GeneratedMSBuildEditorConfig.editorconfig
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/obj/Debug/net6.0/HW1Library.AssemblyInfoInputs.cache
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/obj/Debug/net6.0/HW1Library.AssemblyInfo.cs
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/obj/Debug/net6.0/HW1Library.csproj.CoreCompileInputs.cache
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/obj/Debug/net6.0/HW1Library.dll
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/obj/Debug/net6.0/ref/HW1Library.dll
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/obj/Debug/net6.0/HW1Library.pdb

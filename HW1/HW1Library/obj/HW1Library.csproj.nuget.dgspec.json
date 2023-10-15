@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/HW1Library.csproj": {}
+    "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/HW1Library.csproj": {}
   },
   "projects": {
-    "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/HW1Library.csproj": {
+    "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/HW1Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/HW1Library.csproj",
+        "projectUniqueName": "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/HW1Library.csproj",
         "projectName": "HW1Library",
-        "projectPath": "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/HW1Library.csproj",
+        "projectPath": "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/HW1Library.csproj",
         "packagesPath": "/home/valentin_georgiev/.nuget/packages/",
-        "outputPath": "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1/HW1Library/obj/",
+        "outputPath": "/home/valentin_georgiev/Documents/University/Parallel Programming/HW1/HW1Library/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/valentin_georgiev/.nuget/NuGet/NuGet.Config"
