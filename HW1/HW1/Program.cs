@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 
 string path = "./assets/";
 System.Console.WriteLine("First time instructions: \nCreate a folder called \"assets\" inside this program\'s directory" + 
-"\nThe path file should look like this \'HW1\'/\'HW1\'/\'assets\'" + 
+"\nThe path file should look like this \'HW1/HW1/assets\'" + 
 "\nAfter that place the file you want to analyse. It should be a txt file.");
 string book = string.Empty;
 bool flag = false;
