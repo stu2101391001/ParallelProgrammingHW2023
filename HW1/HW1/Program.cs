@@ -19,8 +19,11 @@ do{
     streamReader.Close();
     flag = true;
     }
-    catch (Exception c){
-        System.Console.WriteLine(c);
+    catch (FileNotFoundException e){
+        System.Console.WriteLine("File not found. Please try again.");
+    }
+    catch (Exception e){
+        System.Console.WriteLine("Something went wrong.\n" + e);
     }
 }while(flag == false);
 
@@ -58,14 +61,16 @@ foreach (Thread thread in threads) thread.Join();
 stopwatch.Stop();*/
 
 System.Console.WriteLine(stopwatch.ElapsedMilliseconds);
-Console.ReadLine();
 
-/*System.Console.WriteLine($"Number of words: {Results.numOfWords}");
+System.Console.WriteLine($"Number of words: {Results.numOfWords}");
 System.Console.WriteLine($"Shortest words: {Results.shortest_words}");
 System.Console.WriteLine($"Longest words: {Results.longest_words}");
 System.Console.WriteLine($"Average word length: {Results.average_word_length}");
 System.Console.WriteLine($"5 most common words: {Results.most_common_words}");
-System.Console.WriteLine($"5 least common words: {Results.least_common_words}");*/
+System.Console.WriteLine($"5 least common words: {Results.least_common_words}");
+
+System.Console.WriteLine("Press ENTER to exit.");
+Console.ReadLine();
 
 
 
