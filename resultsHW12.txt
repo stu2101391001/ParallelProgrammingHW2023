@@ -1,0 +1,35 @@
+Size of image being tested - 6000x4000
+
+0.5 scaling factor
+Sequential - 41 026, 40 450, 40 425, 41 051, 40 503, 40 297, 40 581, 40 221, 40 535, 40 324
+Average - 40 541.3
+Parallel - 6 946, 6 270, 6 092, 6 411, 6 386, 6 415, 6 494, 6 279, 6 248, 6 334
+Average - 6387.5
+Parallel with numThreads = 2*logicalCores - 7 458, 6 976, 6 846, 6 994, 6 983, 6 830, 7 223, 7 054, 6 856, 6 941
+Average - 7 016.1
+
+0.75 scaling factor
+Sequential - 90 054, 91 542, 90 710
+Average - 90 768.67
+Parallel - 13 228, 13 316, 13 383
+Average - 13 309
+Parallel with numThreads = 2*logicalCores - 14 432, 14 261, 14 897
+Average - 14 530 
+
+0.25 scaling factor
+Sequential - 10 010, 10 063, 10 014
+Average - 10 026
+Parallel - 2 351, 2 410, 2 276
+Average - 2345,67
+
+Some tests just for fun
+
+2 scaling factor
+Sequential - 649 223 - abount 11 min
+Parallel - 86 563 - about 1.5 min
+
+Giant image from classroom 25000x15000
+0.5 scaling factor
+Sequential - 924 550 - about 15.5 min
+Parallel - 205 769 - about 3.5 min
+Parallel with numThreads = 2*logicalCores - 263 811 - about 4.5 min

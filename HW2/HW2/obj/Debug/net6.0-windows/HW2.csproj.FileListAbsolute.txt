@@ -1,0 +1,48 @@
+D:\VS Projects\HW2\HW2\bin\Debug\net6.0-windows\HW2.exe
+D:\VS Projects\HW2\HW2\bin\Debug\net6.0-windows\HW2.deps.json
+D:\VS Projects\HW2\HW2\bin\Debug\net6.0-windows\HW2.runtimeconfig.json
+D:\VS Projects\HW2\HW2\bin\Debug\net6.0-windows\HW2.dll
+D:\VS Projects\HW2\HW2\bin\Debug\net6.0-windows\HW2.pdb
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\HW2.MainForm.resources
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\HW2.csproj.GenerateResource.cache
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\HW2.AssemblyInfoInputs.cache
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\HW2.AssemblyInfo.cs
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\HW2.csproj.CoreCompileInputs.cache
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\HW2.dll
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\refint\HW2.dll
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\HW2.pdb
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\HW2.genruntimeconfig.cache
+D:\VS Projects\HW2\HW2\obj\Debug\net6.0-windows\ref\HW2.dll
+C:\Users\FMI\Documents\Temp\HW2\HW2\bin\Debug\net6.0-windows\HW2.exe
+C:\Users\FMI\Documents\Temp\HW2\HW2\bin\Debug\net6.0-windows\HW2.deps.json
+C:\Users\FMI\Documents\Temp\HW2\HW2\bin\Debug\net6.0-windows\HW2.runtimeconfig.json
+C:\Users\FMI\Documents\Temp\HW2\HW2\bin\Debug\net6.0-windows\HW2.dll
+C:\Users\FMI\Documents\Temp\HW2\HW2\bin\Debug\net6.0-windows\HW2.pdb
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\HW2.MainForm.resources
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\HW2.csproj.GenerateResource.cache
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\HW2.AssemblyInfoInputs.cache
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\HW2.AssemblyInfo.cs
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\HW2.csproj.CoreCompileInputs.cache
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\HW2.dll
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\refint\HW2.dll
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\HW2.pdb
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\HW2.genruntimeconfig.cache
+C:\Users\FMI\Documents\Temp\HW2\HW2\obj\Debug\net6.0-windows\ref\HW2.dll
+D:\VS Projects\27.10_itWorks\HW2\HW2\bin\Debug\net6.0-windows\HW2.exe
+D:\VS Projects\27.10_itWorks\HW2\HW2\bin\Debug\net6.0-windows\HW2.deps.json
+D:\VS Projects\27.10_itWorks\HW2\HW2\bin\Debug\net6.0-windows\HW2.runtimeconfig.json
+D:\VS Projects\27.10_itWorks\HW2\HW2\bin\Debug\net6.0-windows\HW2.dll
+D:\VS Projects\27.10_itWorks\HW2\HW2\bin\Debug\net6.0-windows\HW2.pdb
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\HW2.MainForm.resources
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\HW2.csproj.GenerateResource.cache
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\HW2.AssemblyInfoInputs.cache
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\HW2.AssemblyInfo.cs
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\HW2.csproj.CoreCompileInputs.cache
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\HW2.dll
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\refint\HW2.dll
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\HW2.pdb
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\HW2.genruntimeconfig.cache
+D:\VS Projects\27.10_itWorks\HW2\HW2\obj\Debug\net6.0-windows\ref\HW2.dll
