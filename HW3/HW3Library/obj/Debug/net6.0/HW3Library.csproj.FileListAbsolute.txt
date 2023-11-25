@@ -1,0 +1,12 @@
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/bin/Debug/net6.0/HW3Library.deps.json
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/bin/Debug/net6.0/HW3Library.dll
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/bin/Debug/net6.0/ref/HW3Library.dll
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/bin/Debug/net6.0/HW3Library.pdb
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/obj/Debug/net6.0/HW3Library.csproj.AssemblyReference.cache
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/obj/Debug/net6.0/HW3Library.GeneratedMSBuildEditorConfig.editorconfig
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/obj/Debug/net6.0/HW3Library.AssemblyInfoInputs.cache
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/obj/Debug/net6.0/HW3Library.AssemblyInfo.cs
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/obj/Debug/net6.0/HW3Library.csproj.CoreCompileInputs.cache
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/obj/Debug/net6.0/HW3Library.dll
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/obj/Debug/net6.0/ref/HW3Library.dll
+/home/valentin_georgiev/Documents/University/Parallel Programming/HW3/HW3Library/obj/Debug/net6.0/HW3Library.pdb
